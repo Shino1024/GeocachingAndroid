@@ -1,7 +1,8 @@
-package net.linuxutopia.geocaching
+package net.linuxutopia.geocaching.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import net.linuxutopia.geocaching.R
 
 class MainActivity : AppCompatActivity() {
 
